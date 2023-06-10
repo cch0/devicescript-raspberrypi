@@ -1,4 +1,4 @@
-# - project name -
+# - PICO W - MCU Temperature -
 
 This project uses [DeviceScript](https://microsoft.github.io/devicescript/).
 
