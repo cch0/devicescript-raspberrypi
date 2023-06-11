@@ -1,1 +1,1 @@
-# devicescript for raspberry pi & pico_w
+# devicescript for Raspberry Pi & Pico W

@@ -1,4 +1,4 @@
-import { pins } from "@dsboard/pico"
+import { pins } from "@dsboard/pico_w"
 import { startLightBulb } from "@devicescript/servers"
 
 // start a lightbulb server on pin GP1

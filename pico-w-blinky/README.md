@@ -1,4 +1,4 @@
-# - PICO W - Blinky -
+# - Pico W - Blinky -
 
 This project uses [DeviceScript](https://microsoft.github.io/devicescript/).
 
